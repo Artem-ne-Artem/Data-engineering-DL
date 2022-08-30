@@ -1,2 +1,1 @@
-# Data-engineering-DL-
-Data Learn - это открытый учебный ресурс
+## Data Learn - это открытый учебный ресурс
