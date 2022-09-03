@@ -1,1 +1,1 @@
-## Data Learn - открытый учебный ресурс по engineering
+## Data Learn - открытый учебный ресурс по data engineering
