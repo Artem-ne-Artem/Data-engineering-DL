@@ -1,15 +1,22 @@
 # Модуль 2: Базы данных и SQL
 ## Подключение к Базам Данных и SQL
-### Практика
-- Установить клиент SQL для подключения базы данных (DBeaver). Так же вы можете использовать любой другой клиент для подключения к ваше БД.
-- Создайть 3 таблицы и загрузите данные из Superstore Excel в БД. Сохранить в  GitHub скрипт загрузки данных и создания таблиц. 
+
+- Установка PostgreSQL, Установка клиента SQL для подключения базы данных (DBeaver).
+- Создание 3-х таблиц и загрузка данных из Superstore Excel в БД.
+
+- [Create table people.sql](https://github.com/Artem-ne-Artem/Data-engineering-DL/blob/main/DE-101%20Modules/Module02/DE%20-%20101%20Lab%202.1/people.sql)
+- [Create table returns.sql](https://github.com/Artem-ne-Artem/Data-engineering-DL/blob/main/DE-101%20Modules/Module02/DE%20-%20101%20Lab%202.1/returns.sql)
+- [Create table orders.sql](https://github.com/Artem-ne-Artem/Data-engineering-DL/blob/main/DE-101%20Modules/Module02/DE%20-%20101%20Lab%202.1/orders.sql)
+
 
 ## Модели Данных
-### Практика
-1. Необходимо нарисовать модель данных для файлика Superstore
+
+1. Нарисовать модель данных для файлика Superstore
 - Концептуальную
 - Логическую
 - Физическую
-  Вы можете использовать бесплатную версию [SqlDBM](https://sqldbm.com/Home/) или любой другой софт для создания моделей данных баз данных.
-2. Когда вы нарисуете модель данных, вам нужно скопировать DDL и выполнить его в SQL клиенте.
-3. Вам необходимо сделать `INSERT INTO SQL`, чтобы заполнить **Dimensions** таблицы и **Sales Fact** таблицу. Сначала мы заполняем **Dimensions** таблицы, где в качестве **id** мы генерим последовательность чисел, а зачем **Sales Fact** таблицу, в которую вставляем **id** из **Dimensions** таблиц. Такой пример я рассматривал в видео.
+  
+  [SqlDBM](https://sqldbm.com/Home/)
+  
+2. Скопировать DDL и выполнить его в SQL клиенте.
+3. Сделать `INSERT INTO SQL`, чтобы заполнить **Dimensions** таблицы и **Sales Fact** таблицу. Сначала мы заполняем **Dimensions** таблицы, где в качестве **id** мы генерим последовательность чисел, а зачем **Sales Fact** таблицу, в которую вставляем **id** из **Dimensions** таблиц. Такой пример я рассматривал в видео.
