@@ -10,7 +10,7 @@
 
 Иногда используется ещё один слой - `Processing/Compute Layer`, где происходит трансформация данных перед загрузкой в хранилище.
 
-Использование draw.io
+(https://github.com/Artem-ne-Artem/Data-engineering-DL/blob/main/DE-101%20Modules/Module01/Analytics%20Architecture.png)
 
 ## Аналитика в Excel
 
