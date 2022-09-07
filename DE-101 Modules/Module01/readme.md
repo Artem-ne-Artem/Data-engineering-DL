@@ -14,4 +14,4 @@
 
 ## Аналитика в Excel
 
-- Создать дашборд в `Excel` на базе (https://github.com/Artem-ne-Artem/Data-engineering-DL/blob/main/DE-101%20Modules/Module01/Sample%20-%20Superstore.xls)
+- Создать дашборд в `Excel` на базе [Sample - Superstore.xls](https://github.com/Artem-ne-Artem/Data-engineering-DL/blob/main/DE-101%20Modules/Module01/Sample%20-%20Superstore.xls)
