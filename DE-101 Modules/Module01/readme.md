@@ -10,7 +10,8 @@
 
 Иногда используется ещё один слой - `Processing/Compute Layer`, где происходит трансформация данных перед загрузкой в хранилище.
 
-(https://github.com/Artem-ne-Artem/Data-engineering-DL/blob/main/DE-101%20Modules/Module01/Analytics%20Architecture.png)
+### Вариант архитектуры аналитическго решения компании.
+![Architecture](https://github.com/Artem-ne-Artem/Data-engineering-DL/blob/main/DE-101%20Modules/Module01/Analytics%20Architecture.png)
 
 ## Аналитика в Excel
 
