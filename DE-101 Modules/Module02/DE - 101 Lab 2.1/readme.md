@@ -1,12 +1,11 @@
 # Модуль 2: Базы данных и SQL
 ## Подключение к Базам Данных и SQL
 
-- Установка PostgreSQL, Установка клиента SQL для подключения базы данных (DBeaver).
-- Создание 3-х таблиц и загрузка данных из Superstore Excel в БД.
-
--- [Create table people.sql](https://github.com/Artem-ne-Artem/Data-engineering-DL/blob/main/DE-101%20Modules/Module02/DE%20-%20101%20Lab%202.1/people.sql)
--- [Create table returns.sql](https://github.com/Artem-ne-Artem/Data-engineering-DL/blob/main/DE-101%20Modules/Module02/DE%20-%20101%20Lab%202.1/returns.sql)
--- [Create table orders.sql](https://github.com/Artem-ne-Artem/Data-engineering-DL/blob/main/DE-101%20Modules/Module02/DE%20-%20101%20Lab%202.1/orders.sql)
+1. Установка PostgreSQL, Установка клиента SQL для подключения базы данных (DBeaver).
+2. Создание 3-х таблиц и загрузка данных из Superstore Excel в БД.
+  - [Create table people.sql](https://github.com/Artem-ne-Artem/Data-engineering-DL/blob/main/DE-101%20Modules/Module02/DE%20-%20101%20Lab%202.1/people.sql)
+  - [Create table returns.sql](https://github.com/Artem-ne-Artem/Data-engineering-DL/blob/main/DE-101%20Modules/Module02/DE%20-%20101%20Lab%202.1/returns.sql)
+  - [Create table orders.sql](https://github.com/Artem-ne-Artem/Data-engineering-DL/blob/main/DE-101%20Modules/Module02/DE%20-%20101%20Lab%202.1/orders.sql)
 
 
 ## Модели Данных
