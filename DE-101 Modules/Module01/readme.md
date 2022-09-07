@@ -17,4 +17,4 @@
 
 - Создать дашборд в `Excel` на базе [Sample - Superstore.xls](https://github.com/Artem-ne-Artem/Data-engineering-DL/blob/main/DE-101%20Modules/Module01/Sample%20-%20Superstore.xls)
 
-xfun::embed_file(https://github.com/Artem-ne-Artem/Data-engineering-DL/blob/main/DE-101%20Modules/Module01/Dashboard_super_store.pdf)
+![Dashboard](https://github.com/Artem-ne-Artem/Data-engineering-DL/blob/main/DE-101%20Modules/Module01/Dashboard_super_store.pdf "Dashboard")
