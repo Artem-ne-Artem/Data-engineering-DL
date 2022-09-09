@@ -1,8 +1,6 @@
 # Модуль 4: Интеграция и трансформация данных
 
-![ETL_ELT](https://github.com/Artem-ne-Artem/Data-engineering-DL/blob/main/DE-101%20Modules/Module04/ETL_ELT.png)
-
-![Batch и streaming](https://github.com/Artem-ne-Artem/Data-engineering-DL/blob/main/DE-101%20Modules/Module04/Batch_streaming.png)
+![ETL и_ELT](https://github.com/Artem-ne-Artem/Data-engineering-DL/blob/main/DE-101%20Modules/Module04/ETL_ELT.png)
 
 ## Pentaho Data Integration
 - Создание 2 JOB и 3 трансформаций
