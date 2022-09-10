@@ -2,6 +2,4 @@
 
 ![](https://github.com/Artem-ne-Artem/Data-engineering-DL/blob/main/DE-101%20Modules/Module04/Pentaho/Pentaho.png)
 
-**Установка Pentaho** - [YouTube](https://www.youtube.com/watch?v=RL-EZCi51gc)
-
-[Что такое ETL и ELT?](https://youtu.be/3IRU-E_BnYc). 
+[Установка Pentaho](https://www.youtube.com/watch?v=RL-EZCi51gc)
