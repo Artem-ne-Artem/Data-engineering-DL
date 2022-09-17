@@ -1,10 +1,10 @@
 # Модуль 4: Интеграция и трансформация данных
 
 ### ETL и_ELT
-![ETL_ELT](https://github.com/Artem-ne-Artem/Data-engineering-DL/blob/main/DE-101%20Modules/Module04/ETL_ELT.png)
+![](https://github.com/Artem-ne-Artem/Data-engineering-DL/blob/master/DE-101%20Modules/Module04/img/ETL_ELT.png)
 
 ### Batch и streaming
-![Batch_streaming](https://github.com/Artem-ne-Artem/Data-engineering-DL/blob/main/DE-101%20Modules/Module04/Batch_streaming.png)
+![](https://github.com/Artem-ne-Artem/Data-engineering-DL/blob/master/DE-101%20Modules/Module04/img/Batch_streaming.png)
 
 ## [Pentaho Data Integration](https://github.com/Artem-ne-Artem/Data-engineering-DL/blob/master/DE-101%20Modules/Module04/Pentaho/readme.md)
 - Создание JOB и трансформаций
