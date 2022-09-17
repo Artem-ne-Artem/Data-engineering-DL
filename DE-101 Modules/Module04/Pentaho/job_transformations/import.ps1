@@ -1,0 +1,2 @@
+#!powershell
+curl -O D:\YandexDisk\Учеба\13.DE\DataLearn\Module04\Pentaho_introduction\temp\sample_superstore_shell.xls https://github.com/Artem-ne-Artem/Data-engineering-DL/raw/master/DE-101%20Modules/Module01/Sample%20-%20Superstore.xls
