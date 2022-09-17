@@ -11,6 +11,6 @@
 ### Основной JOB
 В рамках данного JOBа реализован ETL процесс:
 - выгрузка данных из git
-- объединени/трансформация
+- объединение/трансформация
 ![Основной JOB](https://github.com/Artem-ne-Artem/Data-engineering-DL/blob/master/DE-101%20Modules/Module04/Pentaho/img/main1_job.png)
 
