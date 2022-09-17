@@ -6,7 +6,7 @@
 ### Batch и streaming
 ![Batch_streaming](https://github.com/Artem-ne-Artem/Data-engineering-DL/blob/main/DE-101%20Modules/Module04/Batch_streaming.png)
 
-## Pentaho Data Integration
+## ## [Pentaho Data Integration](https://github.com/Artem-ne-Artem/Data-engineering-DL/blob/master/DE-101%20Modules/Module04/Pentaho/readme.md)
 - Создание JOB и трансформаций
 - Настройка расписания обновления через планировщик задач windows
 
