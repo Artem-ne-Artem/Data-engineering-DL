@@ -16,7 +16,7 @@
 ![](https://github.com/Artem-ne-Artem/Data-engineering-DL/blob/master/DE-101%20Modules/Module04/Pentaho/img/main1_job.png)
 
 ### JOB загрузки данных
-*Данные загружены двумя разными способами:*
+Данные загружены двумя разными способами:
 - Через шаг Pentaho – "HTTP"
 - Через shell скрипт
 
