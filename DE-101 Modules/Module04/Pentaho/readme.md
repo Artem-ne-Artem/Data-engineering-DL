@@ -14,3 +14,9 @@
 - объединение/трансформация
 ![Основной JOB](https://github.com/Artem-ne-Artem/Data-engineering-DL/blob/master/DE-101%20Modules/Module04/Pentaho/img/main1_job.png)
 
+### JOB для загрузки данных
+*Данные загружены двумя разными способами:*
+- Через шаг Pentaho – "HTTP"
+- Через shell скрипт
+
+<img src="https://github.com/Artem-ne-Artem/Data-engineering-DL/blob/master/DE-101%20Modules/Module04/Pentaho/img/job_download_samplestore.png" width = "200">
