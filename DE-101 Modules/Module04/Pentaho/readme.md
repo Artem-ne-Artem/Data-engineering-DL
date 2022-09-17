@@ -36,4 +36,4 @@
     SOUTH – Один файл формата csv в zip архиве
     EAST – текстовый файл с расширением .dat
 
-![](https://github.com/Artem-ne-Artem/Data-engineering-DL/blob/master/DE-101%20Modules/Module04/Pentaho/img/transformation_for_task.png)
+![]()
