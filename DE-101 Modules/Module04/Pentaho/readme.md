@@ -37,3 +37,11 @@
     EAST – текстовый файл с расширением .dat
 
 ![](https://github.com/Artem-ne-Artem/Data-engineering-DL/blob/master/DE-101%20Modules/Module04/Pentaho/img/transformation_for_task.png)
+
+### Запуск JOBа по расписанию
+При помощи shell скрипта реализован запуск финального JOBа через модуль Kitchen (PDI) через ```Планировщик задач``` на Windows
+
+```bash
+#!/bin/Bash
+"C:\Pentaho install\pdi-ce-9.3.0.0-428\data-integration\Kitchen.bat" /file:"D:\YandexDisk\Учеба\13.DE\DataLearn\Module04\Pentaho_introduction\scripts\final_job.kjb" /level:Basic
+```
