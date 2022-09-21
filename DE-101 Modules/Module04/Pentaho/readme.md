@@ -46,3 +46,12 @@
 #!/bin/Bash
 "C:\Pentaho install\pdi-ce-9.3.0.0-428\data-integration\Kitchen.bat" /file:"D:\YandexDisk\Учеба\13.DE\DataLearn\Module04\Pentaho_introduction\scripts\final_job.kjb" /level:Basic
 ```
+
+## 1. Сформирован JOB и 3 трансформации для загрузки данных в развернутую локально БД (postgres)
+
+*Целью данной задачи является повторить действия, реализованные на SQL в [Module 2](https://github.com/Artem-ne-Artem/Data-engineering-DL/tree/master/DE-101%20Modules/Module02)
+, с применением Pentaho DI*
+
+- Загрузка данных в БД в область со схемой для первоначалной загрузки сырых данных ```Staging```
+- Сформирована отдельная схема хранилища данных ```DW``` в БД и сформированы таблицы измерений ```Dimension tables``` в которые загружены данные из области ```Staging```
+- Сформирована таблица ```Fact table``` в которую загружены данные фактических значенией
