@@ -57,4 +57,13 @@
 - Сформирована таблица ```Fact table``` в которую загружены данные фактических значенией
 
 ### Основной JOB
-![](https://github.com/Artem-ne-Artem/Data-engineering-DL/blob/master/DE-101%20Modules/Module04/Pentaho/Lab_4_4/za_Pentaho_Job.kjb)
+![](https://github.com/Artem-ne-Artem/Data-engineering-DL/blob/master/DE-101%20Modules/Module04/Pentaho/Lab_4_4/img/Pentaho%20job.png)
+
+### Загрузка данных в область Staging
+![](https://github.com/Artem-ne-Artem/Data-engineering-DL/blob/master/DE-101%20Modules/Module04/Pentaho/Lab_4_4/img/staging_orders.png)
+
+### Загрузка данных в таблицы Dimension
+![](https://github.com/Artem-ne-Artem/Data-engineering-DL/blob/master/DE-101%20Modules/Module04/Pentaho/Lab_4_4/img/dim_tables.png)
+
+### Загрузка данных в таблицу Fact
+![](https://github.com/Artem-ne-Artem/Data-engineering-DL/blob/master/DE-101%20Modules/Module04/Pentaho/Lab_4_4/img/fact_table_sales.png)
