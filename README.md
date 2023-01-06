@@ -1,1 +1,1 @@
-### Результаты прохождения курса Data Engineering от открытого ресурса Data Learn
+### Открытый курс Data Engineering от Data Learn
